@@ -1,0 +1,1 @@
+# Loja-Venda-Otimizada-Com-.json
