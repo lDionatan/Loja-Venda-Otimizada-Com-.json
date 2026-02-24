@@ -1,0 +1,65 @@
+{
+
+    "jogo-de-banheiro": [
+    {
+      "nome": "jogo de banheiro",
+      "imagem": "./src/photos/cards/jogo de banheiro.webp"
+    }
+  ],
+
+
+  "pano-de-cozinha": [
+    {
+      "nome": "pano de cozinha",
+      "imagem": "./src/photos/cards/pano de cozinha.webp"
+    }
+  ],
+
+  "mantas": [
+    {
+      "nome": "Manta Confort",
+      "imagem": "./src/photos/cards/Manta Croche.png"
+    }
+  ],
+
+  "tapetes": [
+    {
+      "nome": "Tapete Floral",
+      "imagem": "./src/photos/cards/Tapete Croche.jpg"
+    }
+  ],
+
+  "amigurumi": [
+    {
+      "nome": "Polvo Amigurumi",
+      "imagem": "./src/photos/cards/Amigurumi Croche.jpg"
+    }
+  ],
+
+  "bolsas": [
+    {
+      "nome": "Bolsa Elegante",
+      "imagem": "./src/photos/cards/Bolsa CC.webp"
+    },
+      
+    {
+      "nome": "Bolsa Marrom",
+      "imagem": "./src/photos/produtos/bolsas/bolsa marrom.jpg"
+    }
+  ],
+
+  "capas": [
+    {
+      "nome": "capa",
+      "imagem": "./src/photos/cards/Capas.jpg"
+    }
+  ],
+
+    "roupas": [
+    {
+      "nome": "Top Saia",
+      "imagem": "./src/photos/cards/Roupas Croche.jpg"
+    }
+  ]
+
+}

@@ -1,0 +1,18 @@
+prompt gerar imagens de produtos
+
+
+produto centralizado
+
+fundo neutro/claro
+
+iluminação uniforme
+
+enquadramento com espaço ao redor
+
+sempre objeto no centro inteiro no quadrado
+
+nada encostando nas bordas 
+
+formato quadrado 1:1
+
+resolução 500×500
